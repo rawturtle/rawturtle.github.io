@@ -5,7 +5,7 @@
     "data": [
       {
         "scheme": "https",
-        "host": "*.rawturtle.github.io",
+        "host": "rawturtle.github.io",
         "pathPrefix": ""
       }
     ],
