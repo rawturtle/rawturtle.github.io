@@ -1,0 +1,14 @@
+"intentFilters": [
+  {
+    "action": "VIEW",
+    "autoVerify": true,
+    "data": [
+      {
+        "scheme": "https",
+        "host": "*.rawturtle.github.io",
+        "pathPrefix": ""
+      }
+    ],
+    "category": ["BROWSABLE", "DEFAULT"]
+  }
+]
