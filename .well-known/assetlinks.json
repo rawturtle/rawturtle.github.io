@@ -5,7 +5,12 @@
     "data": [
       {
         "scheme": "https",
-        "host": "*.rawturtle.github.io",
+        "host": "rawturtle.github.io",
+        "pathPrefix": ""
+      },
+      {
+        "scheme": "tfa",
+        "host": "rawturtle.github.io",
         "pathPrefix": ""
       }
     ],
