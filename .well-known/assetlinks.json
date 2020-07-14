@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "tfa",
+    "namespace": "android_app",
     "package_name": "com.tracmap.farmerapp",
     "sha256_cert_fingerprints": ["29:48:F3:AE:95:45:4F:FD:F3:B3:BF:2A:F4:2C:8A:F2:74:91:2C:C5:83:EB:2F:BB:67:02:16:86:DA:3E:70:4E"]
   }
