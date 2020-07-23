@@ -1,0 +1,9 @@
+ {
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "YHMFZJ66T2.com.tracmap.tfa",
+            "paths": ["*", "/", "link", "/link"]
+            }]
+    }
+}
